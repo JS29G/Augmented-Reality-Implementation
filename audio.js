@@ -12,7 +12,7 @@ new Vue({
                 {
                     name: "Westerhout Family",
                     artist: "Westerhout",
-                    cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
+                    cover: "image.jpg",
                     source: "westerhout_audio.wav",
                     url: "",
                     favorited: false
